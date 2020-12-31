@@ -1,2 +1,4 @@
 # hack-canera-truoc-apk
-khong
+git clone https://github.com/kinglaxg2001/hack-canera-truoc-apk
+cd saycheese
+bash saycheese.sh
